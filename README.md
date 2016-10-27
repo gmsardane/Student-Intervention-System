@@ -14,9 +14,9 @@ tested are:
 This project uses the following software and Python libraries:
 
 Python 2.7
-NumPy
-pandas
-matplotlib
-scikit-learn (v0.17) [SVC, DT, AdaBoost, metrics]
++ NumPy
++ pandas
++ matplotlib
++ scikit-learn (v0.17) [SVC, DT, AdaBoost, metrics]
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
