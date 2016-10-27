@@ -10,6 +10,13 @@ tested are:
 
 ### The most efficient and accurate classifier is chosen.
 
-## Tools:
+## Tools/Software Requirements:
+This project uses the following software and Python libraries:
 
-sklearn (SVC, DT, AdaBoost, metrics), Pandas, time, matplotlib
+Python 2.7
+NumPy
+pandas
+matplotlib
+scikit-learn (v0.17) [SVC, DT, AdaBoost, metrics]
+
+You will also need to have software installed to run and execute a Jupyter Notebook.
